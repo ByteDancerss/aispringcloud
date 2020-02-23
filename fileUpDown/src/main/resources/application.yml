@@ -1,0 +1,15 @@
+server:
+  port: 9010
+spring:
+  application:
+    name: fileUpDown
+  http:
+
+  servlet:
+    multipart:
+      max-file-size: 200MB
+      max-request-size: 200MB
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/

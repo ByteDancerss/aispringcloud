@@ -1,0 +1,14 @@
+# Project exclude paths
+/Consumer/target/
+/eurekaclient/target/
+/eurekaserver/target/
+/fegin/target/
+/fileUpDown/target/
+/hystrix/target/
+/localconfigclient/target/
+/localconfigserver/target/
+/ribbon/target/
+/TeacherManager/target/
+/zipkin/target/
+/zipkinClient/target/
+/zuul/target/
